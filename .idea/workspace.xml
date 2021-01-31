@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3296a2c-de9c-4aca-987c-06c2d28ea8c5" name="Default Changelist" comment="updated index.html file">
-      <change beforePath="$PROJECT_DIR$/.idea/Joke_Teller.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Joke_Teller.iml" afterDir="false" />
+    <list default="true" id="d3296a2c-de9c-4aca-987c-06c2d28ea8c5" name="Default Changelist" comment="fixed css properites">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -21,9 +20,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612102142755</updated>
-      <workItem from="1612102143765" duration="1712000" />
+      <workItem from="1612102143765" duration="2676000" />
     </task>
     <task id="LOCAL-00001" summary="updated index.html file">
       <created>1612102738947</created>
@@ -50,7 +52,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612102759066</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed css properites">
+      <created>1612104712143</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612104712143</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed css properites">
+      <created>1612104722928</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612104722928</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,7 +74,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated index.html file" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated index.html file" />
+    <MESSAGE value="fixed css properites" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed css properites" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1157" y="598" width="589" height="204" key="Github.ShareDialog" timestamp="1612102167709">
@@ -69,9 +86,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1019" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612102178939" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1612102763040">
+    <state x="781" y="345" key="SettingsEditor" timestamp="1612104983905">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612102763040" />
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612104983905" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1612104729549">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612104729549" />
   </component>
 </project>
